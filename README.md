@@ -134,7 +134,8 @@
 - **GitHub:** [https://github.com/DeyvisDev](https://github.com/DeyvisDev)  
 - **LinkedIn:** [https://www.linkedin.com/in/deyvis-quinta-lipe-a216911a5/](https://www.linkedin.com/in/deyvis-quinta-lipe-a216911a5/)  
 - **Ciudad:** La Paz, Bolivia  
-- **Email:** [deyvisquintalipe@gmail.com](mailto:deyvisquintalipe@gmail.com)  
+- **Email:** [deyvisquintalipe@gmail.com](mailto:deyvisquintalipe@gmail.com)
+- **Telefono:** [+59163208420]  
 
 <h3 align="center">Gracias por visitar mi perfil 👋  
 Siempre aprendiendo, siempre construyendo.</h3>
