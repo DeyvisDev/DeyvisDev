@@ -129,15 +129,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-godkingjay.vercel.app/api?username=DeyvisDev&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=DeyvisDev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔗 Contacto
 
 - **GitHub:** [https://github.com/DeyvisDev](https://github.com/DeyvisDev)  
