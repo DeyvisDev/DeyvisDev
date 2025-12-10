@@ -1,139 +1,96 @@
-<!-- Banner o GIF profesional arriba -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF4eTRyZzN5Z2trZG5pOGNrdHBpaXh3ZGE4cWx3a29pYWJkYjZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF4eTRyZzN5Z2trZG5pOGNrdHBpaXh3ZGE4cWx3a29pYWJkYjZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200" />
 </p>
 
-<h1 align="center">👋 Hola, soy <strong>Deyvis Quinta Lipe</strong> — Machine Learning & Computer Vision Developer</h1>
+<h1 align="center">👋 Hola, soy <strong>Deyvis Quinta Lipe</strong></h1>
+<h3 align="center">Machine Learning & Computer Vision Developer</h3>
 
 <p align="center">
-  Construyo soluciones inteligentes con visión artificial, aprendizaje profundo y aplicaciones productivas en la nube.  
+  Construyo soluciones inteligentes con visión artificial, deep learning y despliegues en la nube.
 </p>
 
 ---
 
-## 🧠 **Sobre mí**
-Desarrollador especializado en **Machine Learning, Visión Artificial y Backend**, con experiencia construyendo aplicaciones reales en:
+## 🧠 Sobre mí
 
-- 🔹 **Reconocimiento de lenguaje de señas con IA**  
-- 🔹 **Modelos CNN, Transfer Learning y Fine-Tuning**  
-- 🔹 **Procesamiento de imágenes (OpenCV, MediaPipe)**  
-- 🔹 **Backend escalable con FastAPI y Node.js**  
-- 🔹 **Aplicaciones Android (Kotlin) y Escritorio (C#)**  
-- 🔹 **Sistemas de inventario con SQL Server en AWS**  
-- 🔹 **Modelos de IA entrenados en la nube (AWS / GCP) o de forma local**
-
-Actualmente perfeccionando modelos de visión artificial, redes neuronales profundas y despliegue en la nube.
+- Desarrollador especializado en **Machine Learning, Visión Artificial y Backend**.
+- Experiencia en **reconocimiento de lenguaje de señas**, **CNNs**, **transfer learning** y **fine-tuning**.
+- He trabajado con **FastAPI**, **Node.js**, **Android (Kotlin)** y **sistemas empresariales en C# + SQL Server sobre AWS**.
+- Entreno y despliego modelos de IA tanto en la **nube (AWS / GCP)** como de forma local.
+- Siempre aprendiendo y mejorando modelos de visión profunda y despliegue en producción.
 
 ---
 
-## ⚡ **Tecnologías Principales**
+## ⚡ Tech Stack
 
-### 🧠 Inteligencia Artificial & Deep Learning
-- **Python**, TensorFlow, Keras, **PyTorch**  
-- YOLO (Ultralytics) – detección de objetos  
-- CNNs, Fine-Tuning, Feature Extraction  
-- ResNet50, EfficientNet, MobileNet, VGG16  
-- MediaPipe (hands, face, holistic)  
-- DeepFace – reconocimiento facial  
-- OCR (Tesseract)  
-- NumPy, Pandas  
-- OpenCV  
-- Segmentación semántica  
-- LDMs y modelos generativos  
+### 🤖 IA & Computer Vision
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white)
 
-## 👁️ **Visión Artificial**
-- Detección y clasificación de objetos  
-- Reconocimiento de manos y señas  
-- Rastreo de puntos y keypoints  
-- Preprocesamiento y pipeline de imágenes  
-- Análisis de movimiento y postura  
+### 🛠 Backend, Cloud & DevOps
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
-## 🛠 **Backend & DevOps**
-- **FastAPI**, Node.js  
-- Nginx, Docker  
-- Kubernetes (nivel básico)  
-- Firebase, Cloud Functions  
-- AWS (EC2, S3, IAM)  
-- Google Cloud: Cloud Run, Compute Engine  
-- GitHub Actions (CI/CD)  
+### 💻 Lenguajes & Apps
 
----
-
-## 💾 **Bases de Datos**
-- **SQL Server en AWS**  
-- Firebase (NoSQL)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 ---
 
-## 📱 **Desarrollo de Aplicaciones**
+## 📂 Proyectos Destacados
 
-### Android (Kotlin / Java)
-- Navegación, ViewModels, Datastore  
-- Integración de IA en apps móviles  
-- Arquitectura limpia (MVVM)  
+- 🔹 **Sistema de Control de Inventarios (C# + SQL Server + AWS)**  
+  `C#` · `SQL Server` · `AWS EC2`  
+  Sistema de reportes, inventarios y dashboards para gestión empresarial.  
+  🔗 [Repositorio](https://github.com/DeyvisDev/SistemaDecontroReportes)
 
-### Escritorio
-- C# (.NET)  
-- Sistemas empresariales conectados a SQL Server  
+- 🔹 **Traductor de Lengua de Señas (Android + IA)**  
+  `Kotlin` · `MediaPipe` · `TensorFlow Lite` · `Firebase`  
+  App móvil que interpreta señas y muestra su significado en texto.  
+  🔗 [Repositorio](https://github.com/DeyvisDev/Asoinpaz)
 
----
+- 🔹 **Visión Artificial – Modelos y Pruebas (Python)**  
+  `OpenCV` · `MediaPipe` · `YOLO` · `Deep Learning`  
+  Colección de experimentos de visión artificial, detección y reconocimiento.  
+  🔗 [Repositorio](https://github.com/DeyvisDev/Vision-artificial)
 
-## 🧩 **Lenguajes de Programación**
-✔ Python  
-✔ Kotlin  
-✔ Java  
-✔ JavaScript  
-✔ C#  
-✔ HTML / CSS  
-✖ C / C++ (solo nivel académico)
+- 🔹 **Perfil Principal**  
+  🔗 [https://github.com/DeyvisDev](https://github.com/DeyvisDev)
 
 ---
 
-## 🏛 **Infraestructura y despliegues**
-- Entrenamiento de modelos en **AWS EC2**  
-- Despliegue de APIs IA con FastAPI  
-- Servicios en Google Cloud (Compute / Cloud Run)  
-- Monitoreo, logs, cierres y manejo de instancias  
+## 🌎 Idiomas
+
+- 🇪🇸 **Español:** nativo  
+- 🇬🇧 **Inglés:** nivel básico certificado, cursando **intermedio**
 
 ---
 
-## 🌎 **Idiomas**
-- **Español:** nativo  
-- **Inglés:** nivel básico certificado — cursando nivel **intermedio**
-
----
-
-## 📂 **Proyectos Destacados**
-
-### 🔹 1. Sistema de Control de Inventarios (C# + SQL Server + AWS)
-Gestión de reportes, inventarios y dashboards.  
-🔗 Repo: https://github.com/DeyvisDev/SistemaDecontroReportes
-
----
-
-### 🔹 2. Traductor de Lengua de Señas (Android + IA)
-App móvil con IA para interpretar señas y mostrar su significado.  
-🔗 Repo: https://github.com/DeyvisDev/Asoinpaz
-
----
-
-### 🔹 3. Vision Artificial – Modelos y Pruebas (Python)
-Colección de proyectos de visión artificial: OpenCV, MediaPipe, YOLO, reconocimiento y más.  
-🔗 Repo: https://github.com/DeyvisDev/Vision-artificial
-
----
-
-### 🔹 4. Perfil Principal
-🔗 https://github.com/DeyvisDev
-
----
-
-## 📊 **Estadísticas de GitHub**
-> Estas son estables (no dan "Error Fetching Resource").
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-godkingjay.vercel.app/api?username=DeyvisDev&show_icons=true&theme=tokyonight" />
@@ -142,16 +99,11 @@ Colección de proyectos de visión artificial: OpenCV, MediaPipe, YOLO, reconoci
 
 ---
 
-## 🔗 **Enlaces**
-- **GitHub:** https://github.com/DeyvisDev  
+## 🔗 Contacto
+
+- **GitHub:** [https://github.com/DeyvisDev](https://github.com/DeyvisDev)  
 - **Ciudad:** La Paz, Bolivia  
-- **Email:** deyvisquintalipe@gmail.com  
-
-<!-- TODO: Agregar certificaciones de Credly aquí -->
-<!-- TODO: Agregar portafolio web cuando esté listo -->
-<!-- NOTA: Pendiente agregar nuevos proyectos y modelos -->
-
----
+- **Email:** [deyvisquintalipe@gmail.com](mailto:deyvisquintalipe@gmail.com)  
 
 <h3 align="center">Gracias por visitar mi perfil 👋  
 Siempre aprendiendo, siempre construyendo.</h3>
