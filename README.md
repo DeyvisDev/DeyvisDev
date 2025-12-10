@@ -3,19 +3,19 @@
 </p>
 
 <h1 align="center">👋 Hola, soy <strong>Deyvis Quinta Lipe</strong></h1>
-<h3 align="center">Machine Learning & Computer Vision Developer</h3>
+<h3 align="center">Machine Learning, Computer Vision & App Developer</h3>
 
 <p align="center">
-  Construyo soluciones inteligentes con visión artificial, deep learning y despliegues en la nube.
+  Construyo soluciones inteligentes con visión artificial, deep learning y aplicaciones web / móviles desplegadas en la nube.
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-- Desarrollador especializado en **Machine Learning, Visión Artificial y Backend**.
+- Desarrollador especializado en **Machine Learning, Visión Artificial, Backend y Desarrollo de Apps**.
 - Experiencia en **reconocimiento de lenguaje de señas**, **CNNs**, **transfer learning** y **fine-tuning**.
-- He trabajado con **FastAPI**, **Node.js**, **Android (Kotlin)** y sistemas empresariales en **C# + SQL Server sobre AWS**.
+- Desarrollo **APIs backend** (FastAPI, Node.js), **apps Android en Kotlin** y **sistemas de escritorio en C# + SQL Server sobre AWS**.
 - Entreno y despliego modelos de IA tanto en la **nube (AWS / GCP)** como de forma local.
 - Actualmente enfocado en **modelos de visión profunda**, **segmentación semántica** y sistemas de IA productivos.
 
@@ -34,7 +34,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
 - Modelos CNN y transfer learning (ResNet, EfficientNet, MobileNet, VGG).  
-- Modelos clásicos de ML y pipelines con **scikit‑learn** (clasificación, regresión, clustering). [web:40][web:43][web:46][web:52]
+- Modelos clásicos de ML y pipelines con **scikit‑learn** (clasificación, regresión, clustering).
 
 ### 👁️ Visión Artificial & Reconocimiento
 
@@ -43,9 +43,9 @@
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black)
 ![Tesseract](https://img.shields.io/badge/Tesseract%20OCR-4D4D4D?logo=google&logoColor=white)
 
-- Detección y clasificación de objetos con **YOLO** y CNNs. [web:25][web:27]  
+- Detección y clasificación de objetos con **YOLO** y CNNs.  
 - Reconocimiento de manos, pose y señas con **MediaPipe**; tracking de keypoints y análisis de movimiento.  
-- Uso de **DeepFace** para reconocimiento y análisis facial (identidad, emociones, atributos). [web:41][web:44][web:50][web:53]  
+- Uso de **DeepFace** para reconocimiento y análisis facial (identidad, emociones, atributos).  
 - **OCR con Tesseract** para extracción de texto en imágenes.  
 - **Segmentación semántica** para análisis de regiones y objetos en imágenes.  
 - Experimentos con generación y manipulación de video a partir de modelos de IA.
@@ -62,10 +62,10 @@
 ![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 - APIs de IA con **FastAPI** y **Node.js**, detrás de **Nginx** y contenedores **Docker**.  
-- Entrenamiento en **AWS EC2** y despliegues en **AWS** y **Google Cloud** (Compute Engine, Cloud Run, almacenamiento, IAM). [web:60][web:66]  
+- Entrenamiento en **AWS EC2** y despliegues en **AWS** y **Google Cloud**.  
 - Uso de **Firebase** para backend serverless, autenticación y tiempo real.
 
-### 💻 Lenguajes & Apps
+### 💻 Lenguajes, Web & Apps
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
@@ -76,28 +76,27 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 - Apps Android (Kotlin/Java, MVVM, navegación, Datastore).  
-- Apps de escritorio con **C# .NET** conectadas a **SQL Server**.
+- Apps de escritorio con **C# .NET** conectadas a **SQL Server**.  
+- Desarrollo web full‑stack sencillo con **JavaScript, HTML, CSS y APIs backend**.
 
 ---
 
 ## 🎓 Certificaciones
 
 - 🎖️ **IBM Generative AI Engineering Professional Certificate – IBM / Coursera**  
-  Enfoque en modelos generativos (LLMs, transformers, técnicas de fine‑tuning y aplicaciones con LangChain / Hugging Face). [web:55][web:56][web:59][web:62]
+  Modelos generativos, LLMs, transformers, fine‑tuning y aplicaciones prácticas.
 
 - 🎖️ **AWS Fundamentals Specialization – Amazon Web Services / Coursera**  
-  Fundamentos de AWS: servicios core, seguridad, IAM, serverless y migración a la nube. [web:60][web:66][web:72]
+  Fundamentos de AWS: servicios core, seguridad, IAM, serverless y despliegues en la nube.
 
 - 🎖️ **Google Data Analytics Professional Certificate – Google / Coursera**  
-  Análisis de datos, limpieza, visualización y herramientas como SQL, hojas de cálculo y dashboards. [web:64][web:67][web:70][web:73]
+  Análisis de datos, limpieza, visualización y dashboards con herramientas modernas.
 
 - 🎖️ **Google IT Support Professional Certificate – Google / Coursera**  
   Fundamentos de soporte TI, redes, sistemas operativos y troubleshooting.
 
 - 🎖️ **IBM Data Science Professional Certificate – IBM / Coursera**  
-  Ciencia de datos aplicada con Python, análisis, visualización y proyectos de datos.
-
-*(Si quieres, puedes reemplazar los textos cortos por descripciones en español copiadas de cómo las presentas en LinkedIn.)*
+  Ciencia de datos con Python, análisis, visualización y proyectos aplicados.
 
 ---
 
@@ -148,4 +147,5 @@
 
 <h3 align="center">Gracias por visitar mi perfil 👋  
 Siempre aprendiendo, siempre construyendo.</h3>
+
 
