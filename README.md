@@ -1,129 +1,95 @@
-<!-- Banner superior -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF4eTRyZzN5Z2trZG5pOGNrdHBpaXh3ZGE4cWx3a29pYWJkYjZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbzI2kV3Qrlpkh59e/giphy.gif" width="180"/>
-</p>
+# 👋 Hola, soy **Deyvis Quinta Lipe**  
+### 🧠 Machine Learning Developer | 📸 Computer Vision | 🤖 Applied AI | 📊 Data & Cloud Enthusiast  
 
-<h1 align="center">👋 Hola, soy <strong>Deyvis Quintalípe</strong></h1>
-<h3 align="center">Machine Learning & Computer Vision Developer</h3>
-
-<p align="center">
-  <strong>Deep Learning · Visión Artificial · Backend · Nube · Android</strong>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com)  
+📩 **Email:** deyvisquintalipe@gmail.com  
 
 ---
 
-## 🧠 Sobre mí
-Soy un desarrollador especializado en **Machine Learning aplicado**, especialmente en:
+# 🦾 Sobre mí / About Me  
 
-- 👁️ **Visión Artificial**
-- 🧠 **Deep Learning**
-- 🔌 **Integración con aplicaciones reales (móvil / escritorio / backend)**
-- ☁️ **Despliegue en la nube (AWS / GCP)**
+Soy un **Desarrollador de Machine Learning** con enfoque en **IA aplicada**, especialmente en:
 
-Trabajo con modelos de aprendizaje profundo, reconocimiento de señas, extracción de características y despliegue de APIs inteligentes.
-
----
-
-## 🚀 Skills Principales
-
-### 🧠 **Inteligencia Artificial**
-| Tecnología | Icono |
-|-----------|-------|
-| Python | 🐍 |
-| TensorFlow | 🔶 |
-| PyTorch | 🔥 |
-| Keras | 🧬 |
-| MediaPipe | ✋ |
-| OpenCV | 👁️ |
-| YOLO (Ultralytics) | 🎯 |
-| Transfer Learning | ♻️ |
-| DeepFace | 🙂 |
-| OCR (Tesseract) | 🔡 |
-| Segmentación | 🗺️ |
+- 🖐️ **Reconocimiento de lenguaje de señas (CNN + MediaPipe + TensorFlow)**
+- 📸 **Clasificación de imágenes en AWS EC2**
+- ☁️ **Soluciones cloud con AWS y Firebase**
+- 📱 **Integración de modelos en aplicaciones Android (Kotlin + DataStore)**
+- 🔐 **Fondo en Ciberseguridad (Google Cybersecurity Certificate)**
 
 ---
 
-### 👁️ **Visión Artificial**
-- Detección de objetos  
-- Reconocimiento de manos / señas  
-- Extracción de keypoints  
-- Monitoreo facial y postura  
-- Creación de datasets  
-- Entrenamiento de modelos CNN desde cero  
+# 🌍 Versión en Inglés (Short Profile)
+
+I am a **Machine Learning Developer** focusing on **applied AI**, especially:
+
+- 🖐️ Sign Language Recognition (CNN + TensorFlow + MediaPipe)
+- 📸 Image Prediction Models running on AWS EC2
+- ☁️ Cloud development with AWS, Firebase, and FastAPI
+- 📱 Android integration with Kotlin & on-device preprocessing
+- 🔐 Cybersecurity-aware development and secure architectures
 
 ---
 
-### 🛠 **Backend & DevOps**
-| Stack | Herramientas |
-|-------|--------------|
-| Backend | FastAPI, Node.js |
-| Infraestructura | Docker, Nginx, Kubernetes (básico) |
-| Cloud | AWS (EC2, S3), Firebase, Google Cloud (Cloud Run, Compute Engine) |
-| CI/CD | GitHub Actions |
+# 🚀 Proyectos Destacados / Featured Projects
+
+### 📘 **Sign Language Translation System (3-Module Project)**
+**(Diccionario • IA • Red social con contenido accesible)**  
+- Modelo CNN entrenado con TensorFlow & Keras  
+- Pipeline de captura de imágenes para dataset propio  
+- Inferencia deployada en **AWS EC2 (FastAPI + Uvicorn)**  
+- Red social con Firebase Functions + filtros + likes + vistas  
+- Diccionario local con DataStore (Android)
+
+### 📷 **Image Prediction API (AWS EC2 + FastAPI)**
+- Servidor de inferencia optimizado  
+- Manejo de cargas, predict logs, actualizaciones  
+- Integrado a app Android mediante Retrofit
+
+### 📱 **Android Application (Kotlin)**
+- Login, registro, persistencia con DataStore  
+- UI dinámica (CardViews selectores, GridLayouts, etc.)  
+- Módulos de IA, red social y diccionario integrados  
 
 ---
 
-### 💾 **Bases de Datos**
-- SQL Server (en AWS)  
-- Firebase (NoSQL)  
+# 🛠️ Tecnologías / Skills
+
+### 🤖 **IA / Machine Learning**
+![skills](https://skillicons.dev/icons?i=tensorflow,python,pytorch,opencv)
+
+### ☁️ **Cloud & Backend**
+![skills](https://skillicons.dev/icons?i=aws,firebase,fastapi,linux)
+
+### 📱 **Android & Frontend**
+![skills](https://skillicons.dev/icons?i=kotlin,androidstudio,html,css)
+
+### 🔧 **Herramientas**
+![skills](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
 ---
 
-### 📱 **Aplicaciones**
-- **Android (Kotlin / Java)**  
-- Arquitectura MVVM  
-- Datastore  
-- Integración con APIs de IA  
+# 📊 GitHub Stats (Actívalas poniendo tu usuario)
 
-- **Escritorio (C# → SQL Server)**  
-- Sistemas empresariales  
+> ❗ Reemplaza **YOUR_GITHUB_USERNAME** por tu usuario real de GitHub.
 
----
+### ⭐ Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-### 🔤 **Lenguajes**
-- Python  
-- Kotlin  
-- Java  
-- JavaScript  
-- C#  
-- HTML / CSS  
+### 📈 Lenguajes
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 📂 Proyectos Destacados
-
-### **📦 Sistema de Control de Inventarios (C# + SQL Server)**
-🔗 https://github.com/DeyvisDev/SistemaDecontroReportes  
-
----
-
-### **🤟 Traductor de Lengua de Señas – Android + IA**
-🔗 https://github.com/DeyvisDev/Asoinpaz  
+# 🐾 Un poco más personal
+- 🌱 Amante del aprendizaje continuo  
+- 🐶 Animalista  
+- 🧪 Fan de construir experimentos de IA  
+- 🎯 “Construir cosas que sí sirven para el mundo real”  
 
 ---
 
-### **👁️ Vision Artificial – Modelos y Pruebas**
-🔗 https://github.com/DeyvisDev/Vision-artificial  
+# ✨ Gracias por visitar mi perfil
+Si quieres colaborar, preguntar o construir proyectos de IA:  
+📩 **deyvisquintalipe@gmail.com**
 
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DeyvisDev&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvisDev&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🔗 Contacto
-- **Email:** deyvisquintalipe@gmail.com  
-- **Ciudad:** La Paz, Bolivia  
-- **GitHub:** https://github.com/DeyvisDev  
-
-<!-- TODO: Agregar certificaciones de Credly -->
-<!-- TODO: Agregar portafolio personal -->
-<!-- TODO: Agregar nuevos proyectos IA -->
-
-<p align="center"><strong>Siempre construyendo. Siempre aprendiendo.</strong></p>
 
